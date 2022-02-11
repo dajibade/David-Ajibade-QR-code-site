@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
-    text-align: left;
-    margin: 10px;
+    text-align: center;
+    margin: auto;
 }
 
 img {
@@ -17,7 +17,7 @@ img {
 }
 
 div {
-    margin: 20px 30px 10px 30px;
+    margin: auto;
     background-color: white;
     width: 300px;
     height: 450px;
